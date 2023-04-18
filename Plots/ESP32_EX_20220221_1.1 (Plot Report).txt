@@ -1,0 +1,235 @@
+Plot Report
+-----------
+
+Report Written:     Tuesday, April 18, 2023
+Design Path:        ESP32_EX_20220221_1.1.pcb
+Design Title:       
+Created:            2021/11/23 ¤W¤È 09:23:07
+Last Saved:         2022/2/21 ¤U¤È 08:19:26
+Editing Time:       3511 min
+Units:              mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Pen Plot Settings
+=================
+
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 3.5 absolute in inches.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+Plots\ESP32_EX_20220221_1.1 - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 10.00
+    D28    Round 31.50
+    D29    Round 196.85
+    D72    Round 66.93
+    D73    Round 43.31
+    D74    Round 53.15
+
+Gerber Output
+=============
+
+Plots\ESP32_EX_20220221_1.1 - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D75    Round 206.85
+    D76    Round 76.93
+    D77    Round 53.31
+    D78    Round 63.15
+
+Gerber Output
+=============
+
+Plots\ESP32_EX_20220221_1.1 - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+Plots\ESP32_EX_20220221_1.1 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 3.94
+    D12    Round 5.00
+    D13    Round 12.00
+    D14    Round 7.87
+
+Gerber Output
+=============
+
+Plots\ESP32_EX_20220221_1.1 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 10.00
+    D28    Round 31.50
+    D29    Round 196.85
+    D72    Round 66.93
+    D73    Round 43.31
+    D74    Round 53.15
+
+Gerber Output
+=============
+
+Plots\ESP32_EX_20220221_1.1 - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D75    Round 206.85
+    D76    Round 76.93
+    D77    Round 53.31
+    D78    Round 63.15
+
+Gerber Output
+=============
+
+Plots\ESP32_EX_20220221_1.1 - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+Plots\ESP32_EX_20220221_1.1 - Gerber Drill Data - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+    D-Code Shape  (thou)
+    -----------------------
+    D79    Round 118.11
+    D80    Round 31.50
+    D81    Round 27.56
+    D82    Round 35.43
+
+NC Drill Output
+===============
+
+Plots\ESP32_EX_20220221_1.1 - NC Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02756 inches 24    B
+    T002  0.03150 inches 82    H
+    T003  0.03543 inches 30    I
+    T004  0.11811 inches 4     A
+    --------------------------------------
+    Total                140
+    --------------------------------------
+
+Plots\ESP32_EX_20220221_1.1 - NC Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+Plots\ESP32_EX_20220221_1.1 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    118   Y      100  Round A
+    28    Y      100  Round B
+    31    Y      100  Round H
+    35    Y      100  Round I
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+    D27    Round 100.00
+Plots\ESP32_EX_20220221_1.1 - Outline.pen
+    Layers:
+    -----------
+
+
+End Of Report.
